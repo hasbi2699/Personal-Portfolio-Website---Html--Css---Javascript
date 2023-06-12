@@ -1,11 +1,13 @@
-Complete Responsive Personal Portfolio Website - Using Html, CSS & Javascript
+Complete Responsive Personal Portfolio Website - Using Html, CSS & Javascript<br>
 
-In this video, you will learn how to design a complete personal portfolio website using HTML, CSS and Javascript.
+In this video, you will learn how to design a complete personal portfolio website using HTML, CSS and Javascript.<br>
 
-✔️ Clear Coding
-✔️ Easy to Follow
+✔️ Clear Coding<br>
+✔️ Easy to Follow<br>
 
-Website Features -
+Website Features 
+---
+<br>
 ✔️ Responsive<br>
 ✔️ Easy Navigation<br>
 ✔️ Dark/Light Theme<br>
