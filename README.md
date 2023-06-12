@@ -7,7 +7,6 @@ In this video, you will learn how to design a complete personal portfolio websit
 
 Website Features 
 ---
-<br>
 ✔️ Responsive<br>
 ✔️ Easy Navigation<br>
 ✔️ Dark/Light Theme<br>
